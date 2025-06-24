@@ -41,9 +41,9 @@ Perfect for MIS Executives, Business Analysts, or anyone seeking to understand s
 ## ✨ Screenshots
 ![image](https://github.com/user-attachments/assets/59b4f754-f1ec-44e6-8eab-ccb433323b49)
 
-## Author - Kirti Analytics Hub
+**## Author - Kirti Analytics Hub
 
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, feel free to get in touch!
----
-
+**This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, feel free to get in touch!
+**
+**
 > Made with ❤️ using Power BI
